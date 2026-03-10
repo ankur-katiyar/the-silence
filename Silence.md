@@ -1,6 +1,10 @@
 # Silence  
 *May 26, 2003*
 
+<p align="center">
+  <img src="images/Silence.png" alt="Silence Story Cover" width="600">
+</p>
+
 ## Prologue
 
 There are wounds that bleed for a while and then fade with time.  
