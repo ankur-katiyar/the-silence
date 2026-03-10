@@ -349,3 +349,20 @@ I fell asleep.
 ---
 
 **Ankur**
+
+---
+
+## Copyright & License
+
+© 2003–Present **Ankur**. All rights reserved.
+
+The short story **“Silence”**, including the prologue, narrative text, characters, and structure, is the original creative work of **Ankur**.
+
+This work is published in this repository for reading and archival purposes only.
+
+No part of this work may be reproduced, redistributed, modified, or used to create derivative works without the express written permission of the author, except for brief quotations used for review, commentary, or academic purposes.
+
+Unauthorized copying, distribution, or commercial use of this work is prohibited.
+
+**Author:** Ankur  
+**Original Date of Writing:** May 26, 2003
