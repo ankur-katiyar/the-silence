@@ -348,4 +348,4 @@ I fell asleep.
 
 ---
 
-**Author — Ankur**
+**Ankur**
